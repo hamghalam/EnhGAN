@@ -34,7 +34,7 @@ Download pretrained model (trained on) on this address:
 <p> Put name of each Subject ID on "train_name_all.txt"  </p> 
 
 
-# Compute high contrast images based on EnhGAN model
+# To compute high contrast images based on EnhGAN model, run this command on Linux terminal:
 
 <div class="highlight highlight-source-shell"><pre>
 python Enhancement_GAN.py config/data_adr.txt
