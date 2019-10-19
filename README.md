@@ -1,7 +1,7 @@
 # EnhGAN
 Enhancement GAN
 
-We present a novel architecture based on conditional generative adversarial networks (cGANs) to improve the lesion contrast for segmentation based on trained model on BraTS dataset.
+We present a novel architecture based on conditional generative adversarial networks (cGANs) to improve the lesion contrast for segmentation.
 
 ![](https://github.com/hamghalam/EnhGAN/blob/master/high_contrast.PNG)
 
@@ -15,7 +15,7 @@ We present a novel architecture based on conditional generative adversarial netw
 
 # Pretrained model
 
-Download pretrained model (trained on) on this address:
+Download pretrained model (trained on BraTS dataset.) on this address:
 
 <p> https://drive.google.com/open?id=1Gc-gbrq-KoI67tgn-nFiCSdY5jd0dO4y </p>
 
