@@ -3,6 +3,13 @@ Enhancement GAN
 
 We present a novel architecture based on conditional generative adversarial networks (cGANs) to improve the lesion contrast for segmentation.
 
+You can find detailed results (Team name: Hamghalam) on BraTS 2019 dataset on:
+<p> - Validation Phase Leaderboard 2019 - </p>
+<p> https://www.cbica.upenn.edu/BraTS19/lboardValidation.html </p>
+<p>  - Training Phase Leaderboard 2019 - </p>
+<p> https://www.cbica.upenn.edu/BraTS19/lboardTraining.html </p>
+
+
 ![](https://github.com/hamghalam/EnhGAN/blob/master/high_contrast.PNG)
 
 
