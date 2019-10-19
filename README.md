@@ -1,7 +1,7 @@
 # EnhGAN
 Enhancement GAN
 
-Generate high contrast images for the segmentation task based on trained model on BraTS dataset
+We present a novel architecture based on conditional generative adversarial networks (cGANs) to improve the lesion contrast for segmentation based on trained model on BraTS dataset.
 
 
 # Prerequisites
@@ -10,6 +10,13 @@ Generate high contrast images for the segmentation task based on trained model o
 <p> NVIDIA GPU + CUDA CuDNN  </p> 
 <p> Keras  </p>
 <p> SimpleITK  </p>
+
+# Pretrained model
+
+Download pretrained model (trained on) on this address:
+
+<p> https://drive.google.com/open?id=1Gc-gbrq-KoI67tgn-nFiCSdY5jd0dO4y </p>
+
 
 # Prepare dataset
 
@@ -32,3 +39,4 @@ Generate high contrast images for the segmentation task based on trained model o
 <div class="highlight highlight-source-shell"><pre>
 python Enhancement_GAN.py config/data_adr.txt
 </pre></div>
+
