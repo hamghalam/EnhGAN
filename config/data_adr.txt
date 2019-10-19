@@ -1,0 +1,5 @@
+[data]
+data_root             = /home/mohammad/input/MICCAI_BraTS17_Data_Training/
+data_names            = config/train_name_all.txt
+modality_postfix      = [flair]
+file_postfix          = nii.gz
