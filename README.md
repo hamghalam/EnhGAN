@@ -49,3 +49,5 @@ Download pretrained model (trained on BraTS dataset.) on this address:
 python Enhancement_GAN.py config/data_adr.txt
 </pre></div>
 
+# How to download data
+BraTS 2019 dataset. Data can be downloaded from http://braintumorsegmentation.org/
