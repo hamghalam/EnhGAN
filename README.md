@@ -15,6 +15,7 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2019 dataset on:
 
 # Prerequisites
 
+<p> A CUDA compatable GPU with memory not less than 12GB is recommended for training. For testing only, a smaller GPU should be suitable. </p>
 <p> Linux or OSX </p>
 <p> NVIDIA GPU + CUDA CuDNN  </p> 
 <p> Keras  </p>
