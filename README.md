@@ -15,7 +15,7 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2019 dataset on:
 # High Tissue Contrast MRI Synthesis
 
 <div align="center">
-  <a href="https://youtu.be/JglyZNLu3ug"><img src="https://github.com/hamghalam/EnhGAN/blob/master/youtub.PNG" alt="IMAGE ALT TEXT"></a>
+  <a href="https://youtu.be/JglyZNLu3ug"><img src="https://github.com/hamghalam/EnhGAN/blob/master/youtub.PNG" alt="https://youtu.be/JglyZNLu3ug"></a>
 </div>
 
 
