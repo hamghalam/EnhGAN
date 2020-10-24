@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+
+
+
+#Libraries that we used in this python script
 import os
 import time
 import numpy as np
@@ -7,6 +12,7 @@ from util.parse_config import parse_config
 import sys
 import nibabel
 import SimpleITK as sitk
+import sys
 from keras.models import model_from_json
 
 # load GAN model here
@@ -302,7 +308,7 @@ if __name__ == '__main__':
     if(len(sys.argv) != 2):
         print('Number of arguments should be 2. e.g.')
         print('python Enhancement_GAN.py config17/train_wt_ax.txt')
-        exit()
+        sys.exit()#
     config_file = str(sys.argv[1])
     assert(os.path.isfile(config_file))
     enhance(config_file)
