@@ -303,14 +303,18 @@ def enhance(config_file):
         print(volume_name_enhanced)
     
     #print(data_num)
-
-if __name__ == '__main__':
+ 
+def main():
     if(len(sys.argv) != 2):
         print('Number of arguments should be 2. e.g.')
         print('python Enhancement_GAN.py config17/train_wt_ax.txt')
-        sys.exit()#
+        sys.exit() #to safely exit & cleanup memory
     config_file = str(sys.argv[1])
     assert(os.path.isfile(config_file))
     enhance(config_file)
+    
+if __name__ == '__main__':main()
+    
+#END of script
     
     
